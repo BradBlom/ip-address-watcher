@@ -1,0 +1,11 @@
+{
+  "name": "ip-address-watcher",
+  "version": "1.0.0",
+  "description": "This job watches the external IP address for changes",
+  "main": "main.js",
+  "dependencies": {
+	"uuid": "3.3.2",
+	"request": "2.88.0",
+	"nodemailer": "6.1.1"
+  }
+}
