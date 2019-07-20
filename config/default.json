@@ -1,0 +1,14 @@
+{
+	"app-main": {
+		"listen-address": "localhost",
+		"listen-port": "3000",
+		"alert-medium": "email"
+	},
+	"email-configs": {
+		"email-service": "gmail",
+		"from-email": "",
+		"to-email": "",
+		"email-username": "",
+		"email-password": ""
+	}
+}
